@@ -1,4 +1,4 @@
-# Example for specific branch:
+# CircleCi Status:
 [![CircleCI](https://circleci.com/gh/darshan-num/uda-4.svg?style=svg&circle-token=7e613b703addd9331f2fb97a952fbb25cfea4810)](https://app.circleci.com/pipelines/github/darshan-num/uda-4?branch=develop)
 
 ## Project Summary
